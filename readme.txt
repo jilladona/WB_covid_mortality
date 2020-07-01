@@ -18,17 +18,17 @@ Figure 5. Mean Normalized COVID-19 Mortality Rates by Age Group and Country, Hig
 The do file "rates of increase per year of age in covid-19 mortality rates.do" compute the rates of increase per year of age in COVID-19 mortality rate. The do file "rate of increase per year of age in all-cause mortality rate.do" compute the rates for all-cause mortality. The do files for the following figures are so named.
 
 Figure 6. Rate of Increase per Year of Age in COVID-19 Mortality Rate
-Figure 7: Rates of Increase per Year of Age in COVID-19 Mortality vs. GDP per Capita
-Figure 8: All-Cause Mortality Rates by Age Group and Country
-Figure 9: Rates of Increase per Year of Age in COVID-19 Mortality vs. Rate of Increase per Year of Age in All-Cause Mortality by Country
-Figure 10: Rates of Increase per Year of Age in COVID-19 Mortality vs. Vital Statistics Performance Index by Country
-Figure 11: Rates of Increase per Year of Age in COVID-19 Mortality vs. Date of 100th COVID-19 Death in the Country
-Figure 12: Rates of Increase per Year of Age in COVID-19 Mortality vs. Hospital Beds per 1000 People by Country
-Figure 13: Rates of Increase per Year of Age in COVID-19 Mortality vs. Doctors per 1000 People by Country
-Figure 14: Average Rates of Increase per Year of Age in COVID-19 Mortality by Sex
+Figure 7. Rates of Increase per Year of Age in COVID-19 Mortality vs. GDP per Capita
+Figure 8. All-Cause Mortality Rates by Age Group and Country
+Figure 9. Rates of Increase per Year of Age in COVID-19 Mortality vs. Rate of Increase per Year of Age in All-Cause Mortality by Country
+Figure 10. Rates of Increase per Year of Age in COVID-19 Mortality vs. Vital Statistics Performance Index by Country
+Figure 11. Rates of Increase per Year of Age in COVID-19 Mortality vs. Date of 100th COVID-19 Death in the Country
+Figure 12. Rates of Increase per Year of Age in COVID-19 Mortality vs. Hospital Beds per 1000 People by Country
+Figure 13. Rates of Increase per Year of Age in COVID-19 Mortality vs. Doctors per 1000 People by Country
+Figure 14. Average Rates of Increase per Year of Age in COVID-19 Mortality by Sex
 
-Figure A1: Ratio of COVID-19 Mortality Rate for Ages 70-79 to Rate for Ages 50-59
-Figure A2: COVID-19 Mortality Rates by Age Group and Country, by Sex
-Figure A3: Normalized COVID-19 Mortality Rates by Age Group and Country, by Sex
-Figure A4: Rate of Increase per Year of Age in COVID-19 Mortality Rate by Country 
-Figure A5: Rates of Increase per Year of Age in COVID-19 Mortality vs. GDP per Capita by Country and Sex
+Figure A1. Ratio of COVID-19 Mortality Rate for Ages 70-79 to Rate for Ages 50-59
+Figure A2. COVID-19 Mortality Rates by Age Group and Country, by Sex
+Figure A3. Normalized COVID-19 Mortality Rates by Age Group and Country, by Sex
+Figure A4. Rate of Increase per Year of Age in COVID-19 Mortality Rate by Country 
+Figure A5. Rates of Increase per Year of Age in COVID-19 Mortality vs. GDP per Capita by Country and Sex
