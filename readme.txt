@@ -1,4 +1,4 @@
-"COVID-19 Age-Mortality Curves are Flatter in Developing Countries"
+Data and do files (Stata) for replication of "Demographic Perspectives on the Mortality of Covid-19 and Other Epidemics""COVID-19 Age-Mortality Curves are Flatter in Developing Countries" available at http://documents1.worldbank.org/curated/en/701441593610141326/pdf/COVID-19-Age-Mortality-Curves-Are-Flatter-in-Developing-Countries.pdf?fbclid=IwAR0PlOnCL_DPu48hE_d1HfIdJDy2DI7lPlFOYZYbVxSl-ZlI1jI_erWvo5I
 
 The worksheet "Tables.xlsx" contains Tables included in the paper and other summary data. Do files to produce figures 1 and 2 take data from this worksheet. Other sheets in this file contain the outputs and tables shown in this paper.
 
